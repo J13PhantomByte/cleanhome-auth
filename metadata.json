@@ -1,0 +1,6 @@
+{
+  "name": "CleanHome Auth",
+  "description": "Aplikasi autentikasi bersih dan aman untuk layanan CleanHome dengan Supabase Auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
